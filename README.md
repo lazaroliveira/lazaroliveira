@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/lazaroliv_/"><img width="32px" alt="Twitter" title="Meu perfil no Instagram" src="https://purepng.com/public/uploads/medium/purepng.com-blue-circled-instagram-logologosiconsflat-designcircled-logoscircled-iconsiconflatminimalistlogo-design-311519935756ruqu5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=21A16A1852528EC64C551B676BE09214#" alt="Discord" title="Meu currículo lattes"><img width="32px" src="https://sites.ufpe.br/ceerma/wp-content/uploads/sites/73/2020/09/Lattes-logo.png"/></a>
+  <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=21A16A1852528EC64C551B676BE09214#" alt="Discord" title="Meu currículo lattes"><img width="32px" src="[[https://sites.ufpe.br/ceerma/wp-content/uploads/sites/73/2020/09/Lattes-logo.png](https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-resume-icon-png-image_4260240.jpg)](https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/e29e9c29-a848-4a8f-a2a5-c16b980326ae.jpeg)"/></a>
 </p>
 
 <h2 align="center">Confira meus perfis e projetos</h2>
