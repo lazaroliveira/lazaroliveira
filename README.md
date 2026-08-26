@@ -16,7 +16,7 @@
 
 **`Estudante de programação`** 
 
-Me chamo Lázaro Tenório, tenho 17 anos e resido em Pernambuco. Estou cursando o último ano do ensino médio integrado ao curso técnico em Informática no IFPE-Afogados (2023.1 - 2026.2), onde desenvolvi ainda mais meu interesse por tecnologia e inovação. Atualmente, pretendo ingressar em Ciência da Computação (2027), buscando aprofundar meus conhecimentos em desenvolvimento de software, análise de dados e soluções tecnológicas.
+Me chamo Lázaro Tenório, tenho 18 anos e resido em Pernambuco. Estou cursando o último ano do ensino médio integrado ao curso técnico em Informática no IFPE-Afogados (2023.1 - 2026.2), onde desenvolvi ainda mais meu interesse por tecnologia e inovação. Atualmente, pretendo ingressar em Ciência da Computação (2027), buscando aprofundar meus conhecimentos em desenvolvimento de software, análise de dados e soluções tecnológicas.
 
 Tenho grande interesse pelas áreas de gestão e dados, principalmente pela forma como a tecnologia pode transformar informações em decisões estratégicas e melhorar processos no dia a dia. Gosto de explorar ferramentas, organizar projetos e entender como diferentes áreas da tecnologia se conectam para criar soluções eficientes e úteis.
 
